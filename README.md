@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Go-%3E%3D1.22.3-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Version" />
+<img src="https://img.shields.io/badge/Go-%3E%3D1.22-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Version" />
 <img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=for-the-badge" alt="License" />
 <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status" />
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" />
