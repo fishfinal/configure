@@ -1,6 +1,6 @@
 module github.com/fishfinal/configure
 
-go 1.22.3
+go 1.22
 
 require (
 	github.com/fishfinal/fsx v1.0.0
